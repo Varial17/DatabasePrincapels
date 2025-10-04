@@ -1,7 +1,7 @@
 -- ("5"), Semester 2, 2025
--- [YOUR NAME HERE]
--- [YOUR EMAIL HERE]
--- [YOUR STUDENT NUMBER HERE]
+-- [Daniel Hay]
+-- [Daniel.hay@student.uts.edu.au]
+-- [25128974]
 -- 
 -- StudyFin Student Accommodation Platform
 -- This database manages student accommodation listings and rental applications.
