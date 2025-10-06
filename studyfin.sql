@@ -1,6 +1,6 @@
 -- ("5"), Semester 2, 2025
 -- [Daniel Hay]
--- [Daniel.hay@student.uts.edu.au]
+-- [Danie.hay@studnet.uts.edu.au]
 -- [25128974]
 -- 
 -- StudyFin Student Accommodation Platform
@@ -95,6 +95,7 @@ INSERT INTO accommodation_listings
 ('2BR Apartment CBD', 'Fully furnished 2 bedroom in heart of Sydney', 'Sydney CBD, NSW', 800, 'AUD', 2, 1, 'Apartment', 'UTS', 2),
 ('Student Room Kensington', 'Perfect for UNSW students, walk to campus', 'Kensington, NSW', 320, 'AUD', 1, 1, 'Shared House', 'UNSW', 2),
 ('Luxury Studio Pyrmont', 'Brand new building with gym and pool', 'Pyrmont, NSW', 550, 'AUD', 1, 1, 'Studio', 'UTS', 1);
+('Budget Room Ultimo', 'Ultimo, NSW', 300, 1, 1, 'Shared House', 'UTS', 1);
 
 -- Insert sample accommodation applications
 INSERT INTO accommodation_applications 
